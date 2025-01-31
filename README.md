@@ -1,9 +1,9 @@
 ## Word Search
 
-WordGuess is an interactive word-guessing game built using ReactJS. Test your vocabulary and deduction skills by trying to guess the hidden word within a limited number of attempts.
+Word Search is an interactive word-guessing game built using ReactJS. Test your vocabulary and deduction skills by trying to guess the hidden word within a limited number of attempts.
 
 <div align="center">
-  <img align="center" alt="word-guess" src="https://github.com/mohit8426/Word-Guess-main/blob/main/word.png" width="500" height="500" />
+  <img align="center" alt="word-guess" src="https://github.com/mohit8426/Word-Guess-main/blob/main/word.png" width="1000" height="500" />
 </div>
 
 
@@ -55,13 +55,13 @@ Now, immerse yourself in the exciting world of word guessing and put your langua
 1. Clone the repository:
 
 ```
-git clone https://github.com/HimeshKohad/Word-Guess
+git clone https://github.com/mohit8426/Word-Guess-main.git
 ```
    
 2. Navigate to the project directory:
 
 ```
-cd Word-Guess
+cd Word-Search
 ```
 
 3. Install the dependencies using npm or Yarn:
@@ -76,7 +76,7 @@ yarn install
 yarn start
 ```
 
-5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to play WordGuess.
+5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to play Word Search.
 
 <hr>
 
